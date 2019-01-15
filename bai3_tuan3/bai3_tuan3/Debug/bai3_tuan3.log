@@ -1,0 +1,12 @@
+﻿  bai3_tuan3.cpp
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(76): warning C4018: '<': signed/unsigned mismatch
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(103): warning C4018: '<': signed/unsigned mismatch
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(114): warning C4018: '<': signed/unsigned mismatch
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(181): warning C4018: '<': signed/unsigned mismatch
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(233): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(233): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(233): warning C4566: character represented by universal-character-name '\u1EC1' cannot be represented in the current code page (1252)
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\bai3_tuan3\bai3_tuan3\bai3_tuan3.cpp(233): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+  bai3_tuan3.vcxproj -> D:\thai\Hoc Tap\HKI Nam3\thuc tap\NguyenDucThai-58131400\fork\TTCS58-Nhom2\bai3_tuan3\Debug\bai3_tuan3.exe
+  bai3_tuan3.vcxproj -> D:\thai\Hoc Tap\HKI Nam3\thuc tap\NguyenDucThai-58131400\fork\TTCS58-Nhom2\bai3_tuan3\Debug\bai3_tuan3.pdb (Full PDB)
