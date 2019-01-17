@@ -1,5 +1,33 @@
 #include"Header.h"
 
+//xuat thong tin ma tran ra file
+void Nhap(int a[MAX][MAX], int &n)
+{
+
+	fstream f;
+	f.open("input.txt", ios::out);
+	n = rand() % 7 + 3;
+	f << n << endl;
+	
+	for (int i = 0; i < n; i++)
+	{
+		for (int j = 0; j < n; j++)
+		{
+			if (i == j) a[i][j] = 0;
+			else if (a[i][j] == 0 && a[j][i] != 0) a[i][j] = a[j][i];
+			else a[i][j] =  rand() % 100 + 1;
+		}
+	}
+	for (int i = 0; i < n; i++)
+	{
+		for (int j = 0; j < n; j++)
+		{
+			f << a[i][j]<<" ";
+		}
+		f << endl;
+	}
+}
+//doc du lieu tu file
 void docFile(int a[MAX][MAX], int &n)
 {
 	fstream f;

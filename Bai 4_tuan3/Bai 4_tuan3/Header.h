@@ -7,7 +7,7 @@ struct CANH
 {
 	int x, y;	//2 dinh cua canh;
 };
-
+void Nhap(int a[MAX][MAX], int &);
 void docFile(int a[MAX][MAX], int&);
 void ghiFile(CANH L[MAX], int, int);
 void Prim(int a[MAX][MAX], int);
