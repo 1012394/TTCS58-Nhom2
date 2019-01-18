@@ -1,3 +1,6 @@
-﻿  Bai1_tuan3.cpp
+﻿  main.cpp
+d:\thai\hoc tap\hki nam3\thuc tap\nguyenducthai-58131400\fork\ttcs58-nhom2\nguyenducthai_bai1_tuan3\nguyenducthai_bai1_tuan3\main.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai1_tuan3.cpp
+  Generating Code...
   NguyenDucThai_Bai1_tuan3.vcxproj -> D:\thai\Hoc Tap\HKI Nam3\thuc tap\NguyenDucThai-58131400\fork\TTCS58-Nhom2\NguyenDucThai_Bai1_tuan3\Debug\NguyenDucThai_Bai1_tuan3.exe
   NguyenDucThai_Bai1_tuan3.vcxproj -> D:\thai\Hoc Tap\HKI Nam3\thuc tap\NguyenDucThai-58131400\fork\TTCS58-Nhom2\NguyenDucThai_Bai1_tuan3\Debug\NguyenDucThai_Bai1_tuan3.pdb (Full PDB)

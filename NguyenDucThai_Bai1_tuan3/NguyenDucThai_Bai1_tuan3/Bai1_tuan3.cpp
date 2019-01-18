@@ -10,7 +10,7 @@ void xuatDaySoNN()
 	cout << "Nhap vao so lon nhat cua day: "  << endl;
 	cin >> m;
 	int n = rand() % (m - 2) + 1;
-	int a[10];
+	int a[100];
 	for (int i = 0; i < n; i++)
 	{
 		a[i] = rand() % (m - 1) + 1;
